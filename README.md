@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Furqan Abbas</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Associate Software Engineer @Stack360</h3>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m Full Stack Developer
 
 - 👯 I’m looking to collaborate on **Web Development**
-
-- 📝 I regularly write articles on [codewithfurqan](codewithfurqan)
 
 - 💬 Ask me about **react, nodejs**
 
